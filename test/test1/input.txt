@@ -1,0 +1,8 @@
+###############################################################################
+### MESSAGGIO DI TEST PER VALUTAZIONE PARALLELISMO (50KB APPROSSIMATIVI) ###
+###############################################################################
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nisl eget 
+ultricies tincidunt, nisl nisl aliquam nisl, eget ultricies nisl nisl eget nisl.
+[ripetere queste righe ~500 volte per raggiungere 50KB]
+
